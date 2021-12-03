@@ -1,0 +1,26 @@
+body
+{
+    color:black;
+    background:lightskyblue;
+}
+
+.heading
+{
+    width:80% ;
+    font-size: 25px;
+}
+
+#camera
+{
+    border:2px solid deepskyblue ;
+    width: 350px; ;
+    height: 300px; ;
+}
+
+.name_of_objects,#result_object_name
+{
+    color: cornflowerblue;
+}
+
+
+
